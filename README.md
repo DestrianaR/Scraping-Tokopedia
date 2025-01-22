@@ -1,5 +1,7 @@
 # Project Scrapping Produk Seblak di Tokopedia
 
+![Tokopedia Seblak](/Tokopedia_Seblak.png)
+
 ## Project Overview
 Project ini bertujuan untuk melakukan analisis penjualan produk seblak dari informasi produk serupa yang ada di website e-commerce Tokopedia sebagai pertimbangan pengambilan keputusan.
 Scraping data menggunakan teknologi Selenium dan BeautifulSoup.
